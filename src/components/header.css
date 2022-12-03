@@ -1,0 +1,31 @@
+.imagem-tome-luan{
+    border-radius: 50%;
+}
+
+.title{
+    color: #FFF;
+    margin: 10px 0 10px 0;
+}
+
+.subtitle{
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+.apresentacao{
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    width: 90%;
+    margin-bottom: 5px;
+}
+
+.boneco-programador{
+    margin: 5px 0 10px 0;
+}
+
+@media screen and (min-width: 700px){
+    .apresentacao{
+        width: 45%;
+    }
+}
