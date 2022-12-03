@@ -1,5 +1,8 @@
 .footer {
     text-align: center;
     color: #FFF;
-    padding: 11px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 70%;
+    margin: 0 auto;
  }

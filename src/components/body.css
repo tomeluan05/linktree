@@ -1,12 +1,3 @@
-.social{
-    /* display: flex;
-    justify-content: space-around;
-    list-style: none;
-    margin: 20px auto;
-    max-width: 300px; */
-    background-color: red;
-}
-
 .images{
     width: 35px;
 }
@@ -29,12 +20,28 @@ p{
     color: white;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(177, 173, 173);
+}
+
 .primeira-div{
     background-color: green;
 }
 
 .conteudo{
-    width: 90%;
+    border-radius: 10px;
+    width: 70%;
     text-align: center;
     margin: 0 auto;
+    background-color: rgb(66, 66, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
 }

@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="container bg-dark">
             <div className="row footer">
                 <div className="col-md-12">
-                    <p>Footer</p>
+                    <p>&copy; Copyright 2022 - Tomé Luan Jorge Coelho</p>
                 </div>
             </div>
         </div>
