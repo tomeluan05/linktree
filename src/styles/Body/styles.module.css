@@ -16,9 +16,10 @@ p{
     margin-bottom: 3px;
 }
 
+/* 
 .texto{
     color: white;
-}
+} */
 
 a{
     text-decoration: none;
@@ -28,10 +29,6 @@ a{
 a:hover{
     text-decoration: none;
     color: rgb(177, 173, 173);
-}
-
-.primeira-div{
-    background-color: green;
 }
 
 .conteudo{

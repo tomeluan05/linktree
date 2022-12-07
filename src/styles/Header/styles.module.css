@@ -1,5 +1,6 @@
-.imagem-tome-luan{
+.imagem_tomeluan{
     border-radius: 50%;
+    margin-top: 15px;
 }
 
 .title{
@@ -20,8 +21,8 @@
     margin-bottom: 5px;
 }
 
-.boneco-programador{
-    margin: 5px 0 10px 0;
+.boneco_programador{
+    margin: 2px 0 5px 0;
 }
 
 @media screen and (min-width: 700px){
