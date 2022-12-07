@@ -7,7 +7,7 @@ type Props = {
 
 function Header({ title, subtitle }: Props) {
   return (
-    <div className="container mt-3">
+    <div className="container">
       <div className="row">
         <div className="col-md-12 d-flex flex-column align-items-center bg-dark pt-3">
           <img
