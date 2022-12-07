@@ -8,7 +8,7 @@ const Body = () => {
         <a href="https://www.linkedin.com/in/tome-luan/" target="_blank">
             <img
               className={styles.images}
-              src="../../public/linkedin.svg"
+              src="/linkedin.svg"
               alt="linkedin"
             />
           </a>
@@ -25,7 +25,7 @@ const Body = () => {
         <a href="https://github.com/tomeluan05" target="_blank">
             <img
               className={styles.images}
-              src="../../public/github.svg"
+              src="/github.svg"
               alt="linkedin"
             />
           </a>
@@ -42,7 +42,7 @@ const Body = () => {
         <a href="https://www.instagram.com/emot_naul/" target="_blank">
             <img
               className={styles.images}
-              src="../../public/insta.svg"
+              src="/insta.svg"
               alt="linkedin"
             />
           </a>
@@ -59,7 +59,7 @@ const Body = () => {
           <a href="https://api.whatsapp.com/send?phone=5581991518998&text=Olá Tomé Luan,%20estou%20interessado(a)%20nos%20seus%20serviços." target="_blank">
             <img
               className={styles.images}
-              src="../../public/whatsapp.png"
+              src="/whatsapp.png"
               alt="linkedin"
             />
           </a>
